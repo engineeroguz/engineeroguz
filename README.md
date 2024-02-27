@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan Bilçe</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<h3 align="center">A passionate frontend developer, industrial engineering graduate, football lover from Türkiye</h3>
 
 - 🔭 I’m currently working on **React**
 
