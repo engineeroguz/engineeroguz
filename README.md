@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan Bilçe</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
+[![MasterHead](https://blog.hostingdunyam.com.tr/wp-content/uploads/2023/05/frontend-developer.jpg)
 
 - 🔭 I’m currently working on **React**
 
